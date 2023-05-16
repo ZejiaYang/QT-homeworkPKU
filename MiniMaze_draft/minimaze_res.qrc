@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>maze_resource/wall.png</file>
+        <file>maze_resource/mazeBackground2.jpg</file>
+        <file>maze_resource/charatcer.png</file>
+        <file>maze_resource/road.png</file>
+        <file>maze_resource/background.png</file>
+        <file>maze_resource/exit.png</file>
+        <file>maze_resource/exitGame.png</file>
+    </qresource>
+</RCC>
