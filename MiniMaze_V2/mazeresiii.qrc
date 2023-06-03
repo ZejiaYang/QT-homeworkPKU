@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>maze_resource/exitGame.png</file>
+        <file>maze_resource/scroll.jpg</file>
+        <file>maze_resource/scroll.png</file>
+        <file>maze_resource/jygg1.png</file>
+        <file>maze_resource/wall2.png</file>
+        <file>maze_resource/left1.png</file>
+        <file>maze_resource/character3.png</file>
+        <file>maze_resource/right1.png</file>
+        <file>maze_resource/down1.png</file>
+        <file>maze_resource/up1.png</file>
+        <file>maze_resource/exit.png</file>
+        <file>maze_resource/exitButton.png</file>
+        <file>maze_resource/mazeBackground5.png</file>
+        <file>maze_resource/jygg2.png</file>
+        <file>maze_resource/exit_words.png</file>
+    </qresource>
+</RCC>
