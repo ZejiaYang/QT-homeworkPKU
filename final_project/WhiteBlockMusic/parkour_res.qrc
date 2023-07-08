@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>parkour_resource/map1.png</file>
+        <file>parkour_resource/map2.png</file>
+        <file>parkour_resource/map3.png</file>
+        <file>parkour_resource/map4.png</file>
+        <file>parkour_resource/right1.png</file>
+        <file>parkour_resource/right2.png</file>
+        <file>parkour_resource/right3.png</file>
+        <file>parkour_resource/runner1.png</file>
+        <file>parkour_resource/runner2.png</file>
+        <file>parkour_resource/runner3.png</file>
+        <file>parkour_resource/runner4.png</file>
+        <file>parkour_resource/intro.png</file>
+        <file>parkour_resource/intro2.png</file>
+        <file>parkour_resource/b1.png</file>
+        <file>parkour_resource/b2.png</file>
+        <file>parkour_resource/b3.png</file>
+        <file>parkour_resource/b4.png</file>
+        <file>parkour_resource/collision1.png</file>
+        <file>parkour_resource/heart.png</file>
+        <file>parkour_resource/phone.png</file>
+        <file>parkour_resource/lose.png</file>
+        <file>parkour_resource/win.png</file>
+    </qresource>
+</RCC>
