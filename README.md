@@ -1,4 +1,5 @@
 # QT-homeworkPKU
+##基于Qt version 5.9.7
 ### 一，工程概览: :crystal_ball: <br/> 
 * 1.项目名称：《重生之我要上北大！》<br/>
 * 2.小组成员：杨泽嘉，陈博远，罗锦易<br/>
@@ -29,3 +30,4 @@
 ### 四，Final_project依赖：:space_invader: <br/>
 *1.下载好final_project文件夹后，请阅读readme.txt了解构建项目的依赖、版本设置<br/>
 *2. readme.txt还包括了对各代码的功能归类和介绍！<br/>
+*3. 也可以直接在github上final_project文件中下滑到页面地步查看readme.txt<br/>
