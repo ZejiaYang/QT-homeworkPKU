@@ -26,3 +26,6 @@
 * 3. 最终项目所有代码: final_project<br/> （debug模式：下载后可通过运行WhiteBlockII.pro文件于QT-creator打开；release模式：也可以直接运行.exe文件）
 * 4. 项目游戏报告：32-作业报告.pdf<br/>
 * 5. 项目介绍视频：32-演示.mp4<br/>
+### 四，Final_project依赖：:space_invader: <br/>
+*1.下载好final_project文件夹后，请阅读readme.txt了解构建项目的依赖、版本设置<br/>
+*2. readme.txt还包括了对各代码的功能归类和介绍！<br/>
