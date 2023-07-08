@@ -22,7 +22,7 @@
         * ③理科一号楼： “信科人的圣地，走进神秘的理科一号楼”—— “理一”走迷宫小游戏<br/>
 * 6.在游戏进行时会有背景音乐。<br/>
 ### 三，代码解读: :crystal_ball: <br/>
-* 1. cby-pushBox2\cby-puzzle2\cby-visitor\parkour为小组成员开发时上传的子项目文件，可以通过这四个文件夹详细了解各项目情况 <br/>
+* 1. subpro\cby-pushBox2、cby-puzzle2、cby-visitor、ljy-parkour为小组成员开发时上传的部分子项目文件，可以通过这四个文件夹详细了解部分子项目情况 <br/>
 * 2. 项目组开发游戏时所用到的虚拟人物形象包: NPC.zip; 全部为小组成员原创制作<br/>
 * 3. 最终项目所有代码: final_project<br/> （debug模式：下载后可通过运行WhiteBlockII.pro文件于QT-creator打开；release模式：也可以直接运行.exe文件）
 * 4. 项目游戏报告：32-作业报告.pdf<br/>
