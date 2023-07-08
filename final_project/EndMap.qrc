@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>EndingMap/Endpage.png</file>
+        <file>EndingMap/Intro1.png</file>
+        <file>EndingMap/Intro2.png</file>
+    </qresource>
+</RCC>

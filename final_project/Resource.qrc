@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/Image"/>
+    <qresource prefix="/">
+        <file>WhiteBlockImage/bygg reverse(1).png</file>
+        <file>WhiteBlockImage/dining_hall.png</file>
+        <file>WhiteBlockImage/gw2.png</file>
+        <file>WhiteBlockImage/ljy2.png</file>
+        <file>WhiteBlockImage/Rainbow.png</file>
+        <file>WhiteBlockImage/AC.png</file>
+        <file>WhiteBlockImage/R.jpg</file>
+        <file>WhiteBlockImage/zqj.png</file>
+        <file>WhiteBlockImage/piano.png</file>
+        <file>WhiteBlockMusic/g小调的巴赫-177.128.mp3</file>
+        <file>WhiteBlockImage/Intro_background.png</file>
+        <file>WhiteBlockImage/result1.png</file>
+        <file>WhiteBlockImage/result2.png</file>
+        <file>WhiteBlockImage/result3.png</file>
+        <file>WhiteBlockImage/Intro_dishes.png</file>
+        <file>WhiteBlockImage/Yes.png</file>
+        <file>WhiteBlockImage/No.png</file>
+        <file>MenuMap/back_ground.png</file>
+        <file>MenuMap/Iam.png</file>
+        <file>MenuMap/PKU.png</file>
+        <file>MenuMap/Reset.png</file>
+        <file>MenuMap/Begin.png</file>
+        <file>MenuMap/back_ground2.png</file>
+        <file>MenuMap/back_ground3.png</file>
+        <file>MenuMap/Menu_map.png</file>
+        <file>MenuMap/spot.png</file>
+        <file>WhiteBlockImage/pass.png</file>
+        <file>MenuMap/star.png</file>
+    </qresource>
+</RCC>
