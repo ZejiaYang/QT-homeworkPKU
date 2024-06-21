@@ -1,4 +1,39 @@
 # QT-homeworkPKU
+
+### Based on Qt version 5.9.7
+
+### Project Overview :crystal_ball: <br/> 
+* Project Name: "Reborn: I Want to Go to Peking University!" <br/> 
+* Team Members: Yang Zejia, Chen Boyuan, Luo Jinyi <br/> 
+* General Introduction: "Reborn: I Want to Go to Peking University!" is a level-based game featuring a map of Peking University. Players can choose different levels, complete specified tasks, and accumulate reward cards. Players successfully complete the game once they collect all the reward cards. <br/> 
+* Design Motivation: During the game, players are introduced to the history, landscape, and cultural features of Peking University at various landmarks. The aim is to enhance players' knowledge of Peking University through the game, allowing them to gain knowledge joyfully. <br/> 
+### Specific Design :space_invader: <br/> 
+* The game is based on a map of Peking University and features unique games at landmarks such as Weiming Lake, the library, Science Building No. 1, and the May Fourth Stadium. During the game, players will be introduced to these places. The game aims to provide an enjoyable experience while enhancing participants' understanding of Peking University and its excellent culture. <br/> 
+* Upon starting the game, players enter the "Game Start" screen and are introduced to the NPC. <br/> 
+* As the NPC is introduced, players enter a map of Peking University where they can choose different levels. The map is divided into three areas: Scenic Area, Living Area, and Teaching Area. The game includes six modules corresponding to six landmarks: Weiming Lake, the library, Science Building No. 1, the May Fourth Stadium, the home canteen, and the Yuanpei College Building. The first five modules are games, and the last module is a landmark introduction. Players must complete
+* all levels to "graduate" from Peking University and complete the game. <br/> 
+* Before officially starting the game, players can choose a virtual tour guide. <br/> 
+* Tasks for different areas:
+   * Scenic Area: <br/> 
+      * Weiming Lake: "The Scenery by the Lake is Unique" — Restore the scenery of Yanyuan
+   * Living Area: <br/> 
+      * Building 35: "Explore the Underground Space" — Introduction to Yuanpei's  basement
+      * Home Canteen: "Appetizer" Mini-Game & "AC Piano Tiles" Mini-Game
+  * Teaching Area:
+      * Library: "The Library is a Great Place to Debug" — Push & Debug with Teachers
+       * May Fourth Stadium: "Battle of 85 Kilometers" — May Fourth Parkour Mini-Game
+       * Science Building No. 1: "The Holy Land of Computer Science, Explore the Mysterious Science Building No. 1" — Science Building No. 1 Maze Mini-Game
+      * Background music will be played during the game.
+### Code Explanation :grapes:
+* Virtual Character Image Pack Used in Development: NPC.zip, all original creations by team members using Meitu Xiuxiu <br/>
+* Final Project Code: final_project <br/>
+* Running the Project: In debug mode, after downloading, you can open and run the WhiteBlockII.pro file in Qt Creator. Note that the Qt version must be 5.9.7, as a lower version will cause the project to fail to run.
+* Code File Classification: See final_project/readme.txt <br/>
+* Project Report: 32-Homework Report.pdf <br/>
+### Final_project Dependencies :umbrella:
+* After downloading the final_project folder, please read readme.txt to understand the project dependencies and version settings. <br/>
+* readme.txt also includes the classification and introduction of various codes! <br/>
+
 ### 基于Qt version 5.9.7
 ### 一，工程概览: :crystal_ball: <br/> 
 * 项目名称：《重生之我要上北大！》<br/>
